@@ -1,6 +1,6 @@
 # GPLv3
 
-##  <check_snmp_linux - Monitoring Linux via snmp.>
+##  check_snmp_linux - Monitoring Linux via SNMP
 ##  Copyright (C) 2016 Marcos Dutra - macdutra@gmail.com
 
    This program is free software: you can redistribute it and/or modify
